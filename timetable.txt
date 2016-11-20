@@ -1,0 +1,15 @@
+boston 6378 737
+chikago 8392 cesna17
+washington 2456 airbus616
+arlington 6300 737
+madrid 8092 cesna17
+london 2406 airbus616
+farhampton 1078 737
+san-francisko 8002 cesna17
+los-angeles 2116 airbus616
+minsk 1478 737
+moscow 5502 cesna17
+tokio 4416 airbus616
+pekin 9678 737
+abu-dabi 9105 cesna17
+antananarivu 1100 airbus616
